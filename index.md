@@ -1,7 +1,7 @@
 ## Posts
 
-* [Multitenancy in kubernetes -- a billion dollar problem](_posts/multitenancy-in-kubernetes-a-billion-dollar-problem.md)
-* [Why are kubernetes operators hard to install and manage?](_posts/why-are-kubernetes-operators-hard-to-install-and-manage.md)
+* [Multitenancy in kubernetes -- a billion dollar problem](posts/multitenancy-in-kubernetes-a-billion-dollar-problem.md)
+* [Why are kubernetes operators hard to install and manage?](posts/why-are-kubernetes-operators-hard-to-install-and-manage.md)
 * On writing effective kubernetes operators and level-based systems (TODO)
 * On the intersection of centralized and decentralized cloud computing systems (TODO)
 
