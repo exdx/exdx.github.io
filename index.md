@@ -6,9 +6,9 @@
 * On the intersection of centralized and decentralized cloud computing systems (TODO)
 
 ## About me
-I'm a software engineer with interests in distributed systems, cryptocurrencies, and cloud computing. Currently working on OpenShift at Red Hat as a member of the [operator-framework](https://github.com/operator-framework). Previously I worked at a variety of early-stage startups focusing on cloud computing, Ethereum development and cryptocurrency trading. 
+I'm a software engineer with interests in distributed systems, cryptocurrencies, and cloud computing. Currently working on OpenShift at Red Hat as a member of the [operator-framework](https://github.com/operator-framework) team. Previously I worked at a variety of early-stage startups focused on cloud computing, Ethereum development and cryptocurrency trading. 
 
-Outside of coding, my other hobbies including skateboarding, snowboarding, hiking, music, and other fun things that don't involve a computer. 
+Outside of coding, my other hobbies including skateboarding, hiking, playing soccer, and other fun things that don't involve a computer. My cat's name is Pepper a.k.a. Pepo.  
 
 ## Contact
 I'm a regular at the following SIGs
