@@ -5,6 +5,9 @@
 * On writing effective kubernetes operators and level-based systems (TODO)
 * On the intersection of centralized and decentralized cloud computing systems (TODO)
 
+## Presentations
+* [Multitenancy for kubernetes operators](https://www.youtube.com/watch?t=2000&v=_iwuK4kVTdA&feature=youtu.be)
+
 ## About me
 I'm a software engineer with interests in distributed systems, cryptocurrencies, and cloud computing. Currently working on OpenShift at Red Hat as a member of the [operator-framework](https://github.com/operator-framework) team. Previously I worked at a variety of early-stage startups focused on cloud computing, Ethereum development and cryptocurrency trading. 
 
