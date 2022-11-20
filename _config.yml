@@ -1,5 +1,5 @@
 title: exdx
 description: My personal blog
-remote_theme: Dark Poole
+remote_theme: andrewhwanpark/dark-poole
 plugins:
 - jekyll-remote-theme
