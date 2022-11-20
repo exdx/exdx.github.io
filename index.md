@@ -1,5 +1,5 @@
 
-## Welcome!
+## Posts
 * [Multitenancy in kubernetes -- a billion dollar problem](posts/multitenancy-in-kubernetes-a-billion-dollar-problem.md)
 * [Why are kubernetes operators hard to install and manage?](posts/why-are-kubernetes-operators-hard-to-install-and-manage.md)
 
