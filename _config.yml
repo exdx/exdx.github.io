@@ -1,5 +1,4 @@
 title: exdx
 description: My personal blog
 remote_theme: abhinavs/moonwalk
-plugins:
-- jekyll-remote-theme
+
